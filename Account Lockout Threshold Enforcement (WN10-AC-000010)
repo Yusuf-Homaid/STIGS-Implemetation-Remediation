@@ -6,7 +6,7 @@
     This script:
     - Configures the system to lock user accounts after 5 invalid logon attempts.
     - Helps prevent brute-force password attacks.
-    - Ensures compliance with STIG ID: WN10-00-000095.
+    - Ensures compliance with STIG ID: WN10-AC-000010.
 
 .NOTES
     Author          : Yusuf Homaid
@@ -15,7 +15,7 @@
     Date Created    : 2025-04-22
     Last Modified   : 2025-04-22
     Version         : 1.0
-    STIG-ID         : WN10-00-000095
+    STIG-ID         : WN10-AC-000010
 
 .USAGE
     1. Open PowerShell ISE as Administrator.
