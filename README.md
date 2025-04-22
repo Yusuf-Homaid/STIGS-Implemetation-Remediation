@@ -27,8 +27,11 @@ This repository contains PowerShell scripts to implement and remediate Windows 1
     15. [Script 15: Ensure IIS is Not Installed on Workstation (WN10-00-000100)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Ensure%20IIS%20is%20Not%20Installed%20on%20Workstation%20(WN10-00-000100))
     16. [Script 16: Ensure Domain-Joined Systems Use Windows 10 Enterprise Edition 64-bit Version (WN10-00-000005)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Ensure%20Domain-Joined%20Systems%20Use%20Windows%2010%20Enterprise%20Edition%2064-bit%20Version%20(WN10-00-000005))
     17. [Script 17: Enforcing Account Lockout (WN10-00-000053)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Enforcing%20Account%20Lockout%20(WN10-00-000053))
-3. [Documentation](#documentation)
-4. [License](#license)
+    18. [Script 18: Trusted Platform Module (TPM) (WN10-00-000010)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/eef68128650b687d224251a7be7dfef817d75e54/Trusted%20Platform%20Module%20(TPM)%20(WN10-00-000010))
+    19. [Script 19: UEFI Mode (WN10-00-000015)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/UEFI%20Mode%20(WN10-00-000015))
+    20. [Script 20: Employs Automated Mechanisms for Flaw Remediation (WN10-00-000025)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Employs%20Automated%20Mechanisms%20for%20Flaw%20Remediation%20(WN10-00-000025))
+    21. [Script 21: Enforcing Account Lockout (WN10-00-000053)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Enforcing%20Account%20Lockout%20(WN10-00-000053))
+    22. [Script 21: BitLocker for Full Disk Encryption (WN10-00-000030)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/BitLocker%20for%20Full%20Disk%20Encryption%20(WN10-00-000030))
 5. [Contact](#contact)
 
 ---
