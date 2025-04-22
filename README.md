@@ -10,7 +10,7 @@ This repository contains PowerShell scripts to implement and remediate Windows 1
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Scripts](#scripts)
-    1. [Script 1: Enabling Windows Defender Antivirus (WN10-00-000020)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Enabling%20Windows%20Defender%20Antivirus%20(WN10-00-000020))
+    1. [Script 1: Secure Boot must be enabled on Windows 10 systems (WN10-00-000020)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Secure%20Boot%20must%20be%20enabled%20on%20Windows%2010%20systems%20(WN10-00-000020))
     2. [Script 2: BitLocker Authentication Configuration (WN10-00-000031)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/BitLocker%20Authentication%20Configuration%20(WN10-00-000031))
     3. [Script 3: Enabling Password Complexity (WN10-00-000052)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Enabling%20Password%20Complexity%20(WN10-00-000052))
     4. [Script 4: Enabling UAC for Admin Approval Mode (WN10-00-000042)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Enabling%20UAC%20for%20Admin%20Approval%20Mode%20(WN10-00-000042))
@@ -24,7 +24,9 @@ This repository contains PowerShell scripts to implement and remediate Windows 1
     12. [Script 12: Account Lockout Threshold Enforcement (WN10-00-000095)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Account%20Lockout%20Threshold%20Enforcement%20(WN10-00-000095))
     13. [Script 13: Set Account Lockout Duration to 15 Minutes (WN10-00-000100)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Set%20Account%20Lockout%20Duration%20to%2015%20Minutes%20(WN10-00-000100))
     14. [Script 14: Set Account Lockout Observation Window to 15 Minutes (WN10-00-000105) ](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Set%20Account%20Lockout%20Observation%20Window%20to%2015%20Minutes%20(WN10-00-000105))
-    15. 
+    15. [Script 15: Ensure IIS is Not Installed on Workstation (WN10-00-000100)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Ensure%20IIS%20is%20Not%20Installed%20on%20Workstation%20(WN10-00-000100))
+    16. [Script 16: Ensure Domain-Joined Systems Use Windows 10 Enterprise Edition 64-bit Version (WN10-00-000005)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Ensure%20Domain-Joined%20Systems%20Use%20Windows%2010%20Enterprise%20Edition%2064-bit%20Version%20(WN10-00-000005))
+    17. [Script 17: Enforcing Account Lockout (WN10-00-000053)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Enforcing%20Account%20Lockout%20(WN10-00-000053))
 3. [Documentation](#documentation)
 4. [License](#license)
 5. [Contact](#contact)
