@@ -15,7 +15,7 @@ For more information, visit the [official STIG documentation](https://public.cyb
 
 ## Table of Contents
 
-2. [Scripts](#scripts)
+1. [Scripts](#scripts)
     1. [Script 1: Secure Boot must be enabled on Windows 10 systems (WN10-00-000020)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Secure%20Boot%20must%20be%20enabled%20on%20Windows%2010%20systems%20(WN10-00-000020))
     2. [Script 2: BitLocker Authentication Configuration (WN10-00-000031)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/BitLocker%20Authentication%20Configuration%20(WN10-00-000031))
     3. [Script 3: Enabling Password Complexity (WN10-00-000052)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Enabling%20Password%20Complexity%20(WN10-00-000052))
@@ -56,8 +56,8 @@ For more information, visit the [official STIG documentation](https://public.cyb
     38. [Script 38: Remove Certificate Installation Files (*.p12, *.pfx) (WN10-00-000130)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Remove%20Certificate%20Installation%20Files%20(*.p12%2C%20*.pfx)%20(WN10-00-000130))
     39. [Script 39: Enable Host-Based Firewall (WN10-00-000135)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Enable%20Host-Based%20Firewall%20(WN10-00-000135))
     40. [Script 40: Configure Data Execution Prevention (DEP) to OptOut (WN10-00-000145)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Configure%20Data%20Execution%20Prevention%20(DEP)%20to%20OptOut%20(WN10-00-000145))
-    41.  [Script 40: Disable Bluetooth if not approved by the organization (WN10-00-000210)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Disable%20Bluetooth%20if%20not%20approved%20by%20the%20organization%20(WN10-00-000210))
-5. [Contact](#contact)
+    41.  [Script 41: Disable Bluetooth if not approved by the organization (WN10-00-000210)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Disable%20Bluetooth%20if%20not%20approved%20by%20the%20organization%20(WN10-00-000210))
+
 
 ---
 
