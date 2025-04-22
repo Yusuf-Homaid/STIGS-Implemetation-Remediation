@@ -1,4 +1,4 @@
-# STIGS-Implemetation-Remediation- ByYusuf Homaid
+# STIGS-Implemetation-Remediation- By Yusuf Homaid
 
 
 *Automating Security Hardening for Windows 10*
@@ -10,11 +10,13 @@ This repository contains PowerShell scripts to implement and remediate Windows 1
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Scripts](#scripts)
-    1. [Script 1: Enabling Windows Defender Antivirus (WN10-00-000020)](#script-1-user-account-control-settings)
-    2. [Script 2: Disable SMBv1](#script-2-disable-smbv1)
-    3. [Script 3: Disable Remote Desktop](#script-3-disable-remote-desktop)
-    4. [Script 4: Disable SMBv2](#script-4-disable-smbv2)
-    5. [Script 5: Configure Windows Defender Antivirus](#script-5-configure-windows-defender-antivirus)
+    1. [Script 1: Enabling Windows Defender Antivirus (WN10-00-000020)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Enabling%20Windows%20Defender%20Antivirus%20(WN10-00-000020))
+    2. [Script 2: BitLocker Authentication Configuration (WN10-00-000031)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/BitLocker%20Authentication%20Configuration%20(WN10-00-000031))
+    3. [Script 3: Enabling Password Complexity (WN10-00-000052)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Enabling%20Password%20Complexity%20(WN10-00-000052))
+    4. [Script 4: Enabling UAC for Admin Approval Mode (WN10-00-000042)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Enabling%20UAC%20for%20Admin%20Approval%20Mode%20(WN10-00-000042))
+    5. [Script 5: Disabling SMBv1 (WN10-00-000015)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Disabling%20SMBv1%20(WN10-00-000015))
+    6. [Script 6: Disabling LM Hash Storage (WN10-00-000006)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Disabling%20LM%20Hash%20Storage%20(WN10-00-000006))
+    7. [Script 7: Enforcing Account Lockout (WN10-00-000053)](https://github.com/Yusuf-Homaid/STIGS-Implemetation-Remediation/blob/main/Enforcing%20Account%20Lockout%20(WN10-00-000053))
     ...
 3. [Documentation](#documentation)
 4. [License](#license)
