@@ -1,3 +1,4 @@
+```powershell
 <#
 .SYNOPSIS
     Ensures STIG compliance by enforcing account lockout after failed login attempts.
