@@ -6,7 +6,7 @@
     This script:
     - Configures the account lockout duration to 15 minutes.
     - Ensures that after a lockout, user accounts remain locked for a fixed time.
-    - Complies with STIG ID: WN10-00-000100.
+    - Complies with STIG ID: WN10-AC-000005.
 
 .NOTES
     Author          : Yusuf Homaid
@@ -15,7 +15,7 @@
     Date Created    : 2025-04-22
     Last Modified   : 2025-04-22
     Version         : 1.0
-    STIG-ID         : WN10-00-000100
+    STIG-ID         : WN10-AC-000005
 
 .USAGE
     1. Open PowerShell ISE as Administrator.
